@@ -1,0 +1,4 @@
+Node.js >= 18
+npm >= 9
+Vue 3
+Vite 5
